@@ -104,7 +104,7 @@ akunfte ein 2.
 
 =Capital und Zinsen in den stipulirten Fristen gehörig berichtigt werden sollen, und hier
 
-"nach nicht allein die einschlägigen Cameral-Receptores gnädigst angewiesen, sondern auch
+nach nicht allein die einschlägigen Cameral-Receptores gnädigst angewiesen, sondern auch
 
 =Unsere Kurpfälzische Generalcasse und Controlle bei Hinterlegung gegenwärtiger Haupt
 
@@ -732,7 +732,7 @@ desglieder zu benennen, aus welchen der Kläger eines zu wählen berechtigt sey;
 
 wer von ihnen als Kläger oder als beklagter Theil anzusehen sey? die Bundesversamm
 
-lung nunmehr die Herren Bundestagsgesandten von Baiern" und Baden auffordere,
+lung nunmehr die Herren Bundestagsgesandten von Baiern und Baden auffordere,
 
 sich bei ihren allerhöchsten Höfen dahin zu verwenden, daß sie sich binnen vier Wochen
 
