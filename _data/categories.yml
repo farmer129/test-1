@@ -46,7 +46,32 @@
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
   featured: false
+- name: Protokolle_BV_13_1822
+  logo: /img/categories/uncategorized.svg
+  logo_credit: Edward Boatman from the Noun Project
+  featured: true
+- name: Protokolle_BV_14_1822
+  logo: /img/categories/uncategorized.svg
+  logo_credit: Edward Boatman from the Noun Project
+  featured: true
+- name: Protokolle_BV_15_1823
+  logo: /img/categories/uncategorized.svg
+  logo_credit: Edward Boatman from the Noun Project
+  featured: true
+- name: Protokolle_BV_16_1824
+  logo: /img/categories/uncategorized.svg
+  logo_credit: Edward Boatman from the Noun Project
+  featured: true
+- name: Protokolle_BV_17_1825
+  logo: /img/categories/uncategorized.svg
+  logo_credit: Edward Boatman from the Noun Project
+  featured: true
+- name: Protokolle_BV_18_1826
+  logo: /img/categories/uncategorized.svg
+  logo_credit: Edward Boatman from the Noun Project
+  featured: true
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: Edward Boatman from the Noun Project
-  featured: false
+  featured: true
+
