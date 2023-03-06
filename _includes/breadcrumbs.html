@@ -1,14 +1,14 @@
-<ol class="breadcrumb">
+<ol class="breadcrumb{% if page.full_width %} container{% endif %}">
   {% if page.title == site.title %}
-    <li class="breadcrumb-item active"><i class="fa fa-home" aria-label="Home"></i></li>
+    <li class="active"><i class="fa fa-home" aria-label="Home"></i></li>
   {% else %}
-    <li class="breadcrumb-item"><a href="{{ site.baseurl }}/"><i class="fa fa-home" aria-label="Home"></i></a></li>
+    <li><a href="{{ site.baseurl }}/"><i class="fa fa-home" aria-label="Home"></i></a></li>
     {% if include.parent %}
       {% assign parent = site.pages | where:"title",include.parent | first %}
       {% if parent %}
-        <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a></li>
       {% endif %}
     {% endif %}
-    <li class="breadcrumb-item active">{{ page.title }}</li>
-  {% endif %}
+    <li class="active">{{ page.title }}</li>
+  {% endif %}  
 </ol>
