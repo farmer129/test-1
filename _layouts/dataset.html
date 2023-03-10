@@ -73,7 +73,7 @@ layout: default
 
         <script>
           function highlight(text) {
-            var inputText = document.getElementById("text");
+            var inputText = document.getElementById("inputtext");
             var innerHTML = inputText.innerHTML;
             var index = innerHTML.indexOf(text);
             if (index >= 0) { 
@@ -84,11 +84,11 @@ layout: default
         </script>
 
         <input type="text" id="search"/>
-        <button onClick="highlight(search)" id="button">
+        <button onClick="highlight(id)" id="button">
         Highlight
         </button>
 
-      <div id="text">
+      <div id="inputtext">
         <h1>
           <span property="dct:title">{{ page.title }}</span>
           <a href="?view=edit" class="pull-right btn btn-outline-secondary admin-only" data-hook="edit-dataset-btn">Edit</a>
