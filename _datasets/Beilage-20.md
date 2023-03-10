@@ -412,25 +412,25 @@ Gladbach.</p>"
 resources:  
 - format: png  
   name: Page36[1].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-20/Page36[1].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-20/Page36[1].png  
 - format: png  
   name: Page37[1].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-20/Page37[1].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-20/Page37[1].png  
 - format: png  
   name: Page38[1].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-20/Page38[1].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-20/Page38[1].png  
 - format: png  
   name: Page39[2].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-20/Page39[2].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-20/Page39[2].png  
 - format: png  
   name: Page40[2].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-20/Page40[2].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-20/Page40[2].png  
 - format: png  
   name: Page41[2].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-20/Page41[2].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-20/Page41[2].png  
 - format: png  
   name: Page42[2].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-20/Page42[2].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-20/Page42[2].png  
 category:   
   - Protokolle_BV_14_1822  
 maintainer: Frank Chen  

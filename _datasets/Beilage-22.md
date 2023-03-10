@@ -1248,73 +1248,73 @@ Protok. d. d. Bundesvers. XIV. Bd.</p>"
 resources:  
 - format: png  
   name: Page67[0-1-2-3].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page67[0-1-2-3].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page67[0-1-2-3].png  
 - format: png  
   name: Page68[4-5-6-7].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page68[4-5-6-7].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page68[4-5-6-7].png  
 - format: png  
   name: Page69[7-8].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page69[7-8].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page69[7-8].png  
 - format: png  
   name: Page70[9-10].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page70[9-10].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page70[9-10].png  
 - format: png  
   name: Page71[11-12-13-14-15].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page71[11-12-13-14-15].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page71[11-12-13-14-15].png  
 - format: png  
   name: Page72[16-17-18-19].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page72[16-17-18-19].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page72[16-17-18-19].png  
 - format: png  
   name: Page73[19-20-21-22].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page73[19-20-21-22].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page73[19-20-21-22].png  
 - format: png  
   name: Page74[22-23].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page74[22-23].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page74[22-23].png  
 - format: png  
   name: Page75[24-25-26-27].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page75[24-25-26-27].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page75[24-25-26-27].png  
 - format: png  
   name: Page76[27-28-29-30-31].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page76[27-28-29-30-31].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page76[27-28-29-30-31].png  
 - format: png  
   name: Page77[32-33-34-35].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page77[32-33-34-35].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page77[32-33-34-35].png  
 - format: png  
   name: Page78[35-36-37-38-39].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page78[35-36-37-38-39].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page78[35-36-37-38-39].png  
 - format: png  
   name: Page79[40-41-42].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page79[40-41-42].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page79[40-41-42].png  
 - format: png  
   name: Page80[42-43].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page80[42-43].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page80[42-43].png  
 - format: png  
   name: Page81[43-44-45].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page81[43-44-45].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page81[43-44-45].png  
 - format: png  
   name: Page82[45-46-47-48-49-50].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page82[45-46-47-48-49-50].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page82[45-46-47-48-49-50].png  
 - format: png  
   name: Page83[50].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page83[50].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page83[50].png  
 - format: png  
   name: Page84[50-51].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page84[50-51].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page84[50-51].png  
 - format: png  
   name: Page85[51].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page85[51].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page85[51].png  
 - format: png  
   name: Page86[51-52].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page86[51-52].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page86[51-52].png  
 - format: png  
   name: Page87[52].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page87[52].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page87[52].png  
 - format: png  
   name: Page88[52].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page88[52].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page88[52].png  
 - format: png  
   name: Page89[52-53-54].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-22/Page89[52-53-54].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-22/Page89[52-53-54].png  
 category:   
   - Protokolle_BV_14_1822  
 maintainer: Frank Chen  

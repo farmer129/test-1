@@ -6,19 +6,19 @@ notes: "<p>§.1</p><p>Beilage 27 zu §. 196. Erklärung des Großherzoglich=Hess
 resources:  
 - format: png  
   name: Page164[1].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-27/Page164[1].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-27/Page164[1].png  
 - format: png  
   name: Page165[1].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-27/Page165[1].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-27/Page165[1].png  
 - format: png  
   name: Page166[1].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-27/Page166[1].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-27/Page166[1].png  
 - format: png  
   name: Page167[1].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-27/Page167[1].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-27/Page167[1].png  
 - format: png  
   name: Page168[1].png  
-  url: ../../Protokolle_BV_14_1822/Beilage-27/Page168[1].png  
+  url: ../../data_img/Protokolle_BV_14_1822/Beilage-27/Page168[1].png  
 category:   
   - Protokolle_BV_14_1822  
 maintainer: Frank Chen  
