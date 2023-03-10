@@ -71,6 +71,24 @@ layout: default
     </div>
       <div class="col">
 
+        <script>
+          function search(e) {
+            let searched = document.getElementById("search").value.trim();
+            if (searched !== "") {
+              let text = document.getElementById("text").innerHTML;
+              let re = new RegExp(searched,"g"); // search for all instances
+              let newText = text.replace(re, `<mark>${searched}</mark>`);
+              document.getElementById("text").innerHTML = newText;
+            }
+          }
+        </script>
+
+        <input type="text" id="search"/>
+        <button onClick="search(id)" id="button">
+        Highlight
+        </button>
+
+      <div id="text">
         <h1>
           <span property="dct:title">{{ page.title }}</span>
           <a href="?view=edit" class="pull-right btn btn-outline-secondary admin-only" data-hook="edit-dataset-btn">Edit</a>
@@ -109,6 +127,7 @@ layout: default
       </div>
     </div>
   </div>
+</div>
 
   <div data-hook="view" data-view="edit">
     <div class="row">
@@ -120,3 +139,12 @@ layout: default
 </div>
 </div>
 </div>
+
+<style>
+  *{
+  font-family: sans-serif;
+  }
+  .{
+  background-color: #efefef;
+  }
+</style>
