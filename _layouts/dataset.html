@@ -36,7 +36,9 @@ layout: default
                           <a href="{% github_edit_link %}"  target="_blank"><i class="fa fa-code"></i> Open in GitHub</a>
                         </div>
                       </div>
-
+    </div>    
+      {% else %}
+      {% endif %}
       <div class="original" >
         <h2>Original Documents</h2>
         <ul>
@@ -67,12 +69,8 @@ layout: default
           {% endfor %}
         </ul>
       </div>
-    </div>
+      <div class="col">
 
-      <div class="col">
-      {% else %}
-      <div class="col">
-      {% endif %}
         <h1>
           <span property="dct:title">{{ page.title }}</span>
           <a href="?view=edit" class="pull-right btn btn-outline-secondary admin-only" data-hook="edit-dataset-btn">Edit</a>
