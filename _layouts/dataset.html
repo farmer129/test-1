@@ -72,23 +72,23 @@ layout: default
       <div class="col">
 
         <script>
-          function highlight(text) {
-            var inputText = document.getElementById("inputtext");
-            var innerHTML = inputText.innerHTML;
-            var index = document.getElementById("search").value.trim();
-            if (index >= 0) { 
-            innerHTML = innerHTML.substring(0,index) + "<span class='highlight'>" + innerHTML.substring(index,index+text.length) + "</span>" + innerHTML.substring(index + text.length);
-            inputText.innerHTML = innerHTML;
+          function search(e) {
+            let searched = document.getElementById("search").value.trim();
+            if (searched !== "") {
+              let text = document.getElementById("text").innerHTML;
+              let re = new RegExp(searched,"g"); // search for all instances
+              let newText = text.replace(re, `<span class='highlight'>${searched}</span>`);
+              document.getElementById("text").innerHTML = newText;
             }
           }
         </script>
 
         <input type="text" id="search"/>
-        <button onClick="highlight(id)" id="button">
+        <button onClick="search(id)" id="button">
         Highlight
         </button>
 
-      <div id="inputtext">
+      <div id="text">
         <h1>
           <span property="dct:title">{{ page.title }}</span>
           <a href="?view=edit" class="pull-right btn btn-outline-secondary admin-only" data-hook="edit-dataset-btn">Edit</a>
