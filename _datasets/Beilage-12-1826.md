@@ -302,19 +302,19 @@ remettre ces individus en liberté.</p>"
 resources:  
 - format: png  
   name: Page67[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-12/Page67[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-12/Page67[1].png  
 - format: png  
   name: Page68[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-12/Page68[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-12/Page68[1].png  
 - format: png  
   name: Page69[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-12/Page69[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-12/Page69[1].png  
 - format: png  
   name: Page70[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-12/Page70[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-12/Page70[1].png  
 - format: png  
   name: Page71[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-12/Page71[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-12/Page71[1].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  

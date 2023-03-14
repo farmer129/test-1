@@ -6,10 +6,10 @@ notes: "<p>§.1</p><p>Anlage 3. Bekanntmachung des Großherzoglich=Badischen Fin
 resources:  
 - format: png  
   name: Page37[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-3/Page37[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-3/Page37[1].png  
 - format: png  
   name: Page38[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-3/Page38[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-3/Page38[1].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  

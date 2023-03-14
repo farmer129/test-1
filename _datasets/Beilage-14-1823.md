@@ -1157,122 +1157,122 @@ Diese Einwendung würde, wäre sie begründet oder könnte sie begründet werden
 dings von entscheidendem Gewichte bei der Frage seyn: ob des Königs von Dänemark</p>"  
 resources:  
 - format: png  
-  name: Page 429 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 429 [129].png  
+  name: Page429[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page429[129].png  
 - format: png  
-  name: Page 430 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 430 [129].png  
+  name: Page430[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page430[129].png  
 - format: png  
-  name: Page 431 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 431 [129].png  
+  name: Page431[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page431[129].png  
 - format: png  
-  name: Page 432 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 432 [129].png  
+  name: Page432[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page432[129].png  
 - format: png  
-  name: Page 433 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 433 [129].png  
+  name: Page433[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page433[129].png  
 - format: png  
-  name: Page 434 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 434 [129].png  
+  name: Page434[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page434[129].png  
 - format: png  
-  name: Page 435 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 435 [129].png  
+  name: Page435[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page435[129].png  
 - format: png  
-  name: Page 436 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 436 [129].png  
+  name: Page436[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page436[129].png  
 - format: png  
-  name: Page 437 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 437 [129].png  
+  name: Page437[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page437[129].png  
 - format: png  
-  name: Page 438 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 438 [129].png  
+  name: Page438[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page438[129].png  
 - format: png  
-  name: Page 439 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 439 [129].png  
+  name: Page439[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page439[129].png  
 - format: png  
-  name: Page 440 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 440 [129].png  
+  name: Page440[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page440[129].png  
 - format: png  
-  name: Page 441 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 441 [129].png  
+  name: Page441[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page441[129].png  
 - format: png  
-  name: Page 442 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 442 [129].png  
+  name: Page442[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page442[129].png  
 - format: png  
-  name: Page 443 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 443 [129].png  
+  name: Page443[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page443[129].png  
 - format: png  
-  name: Page 444 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 444 [129].png  
+  name: Page444[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page444[129].png  
 - format: png  
-  name: Page 445 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 445 [129].png  
+  name: Page445[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page445[129].png  
 - format: png  
-  name: Page 446 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 446 [129].png  
+  name: Page446[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page446[129].png  
 - format: png  
-  name: Page 447 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 447 [129].png  
+  name: Page447[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page447[129].png  
 - format: png  
-  name: Page 448 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 448 [129].png  
+  name: Page448[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page448[129].png  
 - format: png  
-  name: Page 449 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 449 [129].png  
+  name: Page449[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page449[129].png  
 - format: png  
-  name: Page 450 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 450 [129].png  
+  name: Page450[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page450[129].png  
 - format: png  
-  name: Page 451 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 451 [129].png  
+  name: Page451[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page451[129].png  
 - format: png  
-  name: Page 452 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 452 [129].png  
+  name: Page452[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page452[129].png  
 - format: png  
-  name: Page 453 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 453 [129].png  
+  name: Page453[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page453[129].png  
 - format: png  
-  name: Page 454 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 454 [129].png  
+  name: Page454[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page454[129].png  
 - format: png  
-  name: Page 455 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 455 [129].png  
+  name: Page455[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page455[129].png  
 - format: png  
-  name: Page 456[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 456[129].png  
+  name: Page456[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page456[129].png  
 - format: png  
-  name: Page 457 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 457 [129].png  
+  name: Page457[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page457[129].png  
 - format: png  
-  name: Page 458[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 458[129].png  
+  name: Page458[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page458[129].png  
 - format: png  
-  name: Page 459 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 459 [129].png  
+  name: Page459[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page459[129].png  
 - format: png  
-  name: Page 460[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 460[129].png  
+  name: Page460[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page460[129].png  
 - format: png  
-  name: Page 461[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 461[129].png  
+  name: Page461[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page461[129].png  
 - format: png  
-  name: Page 462[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 462[129].png  
+  name: Page462[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page462[129].png  
 - format: png  
-  name: Page 463[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 463[129].png  
+  name: Page463[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page463[129].png  
 - format: png  
-  name: Page 464[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 464[129].png  
+  name: Page464[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page464[129].png  
 - format: png  
-  name: Page 465[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 465[129].png  
+  name: Page465[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page465[129].png  
 - format: png  
-  name: Page 466[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 466[129].png  
+  name: Page466[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page466[129].png  
 - format: png  
-  name: Page 467[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-14/Page 467[129].png  
+  name: Page467[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-14/Page467[129].png  
 category:   
   - Protokolle_BV_15_1823  
 maintainer: Isaac Laryea  

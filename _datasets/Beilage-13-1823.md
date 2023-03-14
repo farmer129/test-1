@@ -871,44 +871,44 @@ zu versagen.
 Graf von Beust.</p>"  
 resources:  
 - format: png  
-  name: Page 416[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 416[129].png  
+  name: Page416[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page416[129].png  
 - format: png  
-  name: Page 417 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 417 [129].png  
+  name: Page417[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page417[129].png  
 - format: png  
-  name: Page 418[129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 418[129].png  
+  name: Page418[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page418[129].png  
 - format: png  
-  name: Page 419 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 419 [129].png  
+  name: Page419[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page419[129].png  
 - format: png  
-  name: Page 420 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 420 [129].png  
+  name: Page420[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page420[129].png  
 - format: png  
-  name: Page 421 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 421 [129].png  
+  name: Page421[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page421[129].png  
 - format: png  
-  name: Page 422 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 422 [129].png  
+  name: Page422[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page422[129].png  
 - format: png  
-  name: Page 423 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 423 [129].png  
+  name: Page423[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page423[129].png  
 - format: png  
-  name: Page 424 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 424 [129].png  
+  name: Page424[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page424[129].png  
 - format: png  
-  name: Page 425 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 425 [129].png  
+  name: Page425[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page425[129].png  
 - format: png  
-  name: Page 426 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 426 [129].png  
+  name: Page426[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page426[129].png  
 - format: png  
-  name: Page 427 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 427 [129].png  
+  name: Page427[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page427[129].png  
 - format: png  
-  name: Page 428 [129].png  
-  url: ../../Protokolle_BV_15_1823/Beilage-13/Page 428 [129].png  
+  name: Page428[129].png  
+  url: ../../data_img/Protokolle_BV_15_1823/Beilage-13/Page428[129].png  
 category:   
   - Protokolle_BV_15_1823  
 maintainer: Isaac Laryea  

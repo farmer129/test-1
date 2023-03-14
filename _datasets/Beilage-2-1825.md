@@ -66,7 +66,7 @@ v. Carlowiz.</p>"
 resources:  
 - format: png  
   name: Page9[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-2/Page9[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-2/Page9[1].png  
 category:   
   - Protokolle_BV_17_1825  
 maintainer: Tao Luo  

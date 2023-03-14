@@ -398,22 +398,22 @@ Frhr. v. Münch-Bellinghausen. v. Nagler. v. Pfeffel.</p>"
 resources:  
 - format: png  
   name: Page98[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-4/Page98[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-4/Page98[1].png  
 - format: png  
   name: Page99[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-4/Page99[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-4/Page99[1].png  
 - format: png  
   name: Page100[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-4/Page100[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-4/Page100[1].png  
 - format: png  
   name: Page101[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-4/Page101[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-4/Page101[1].png  
 - format: png  
   name: Page102[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-4/Page102[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-4/Page102[1].png  
 - format: png  
   name: Page103[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-4/Page103[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-4/Page103[1].png  
 category:   
   - Protokolle_BV_17_1825  
 maintainer: Tao Luo  

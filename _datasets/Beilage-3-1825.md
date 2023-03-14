@@ -124,10 +124,10 @@ lL 5.) Bernhard Erich Freund, Herzog zu Sachsen.</p>"
 resources:  
 - format: png  
   name: Page17[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-3/Page17[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-3/Page17[1].png  
 - format: png  
   name: Page18[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-3/Page18[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-3/Page18[1].png  
 category:   
   - Protokolle_BV_17_1825  
 maintainer: Tao Luo  

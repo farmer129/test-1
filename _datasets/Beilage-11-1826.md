@@ -46,7 +46,7 @@ Recevez, eto.
 resources:  
 - format: png  
   name: Page66[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-11/Page66[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-11/Page66[1].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  

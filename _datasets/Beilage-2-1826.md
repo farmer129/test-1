@@ -6,67 +6,67 @@ notes: "<p>§.1</p><p>Beilage 2. Urteil des Königlich-Britisch-Hannoverschen Ob
 resources:  
 - format: png  
   name: Page14[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page14[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page14[1].png  
 - format: png  
   name: Page15[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page15[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page15[1].png  
 - format: png  
   name: Page16[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page16[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page16[1].png  
 - format: png  
   name: Page17[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page17[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page17[1].png  
 - format: png  
   name: Page18[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page18[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page18[1].png  
 - format: png  
   name: Page19[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page19[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page19[1].png  
 - format: png  
   name: Page20[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page20[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page20[1].png  
 - format: png  
   name: Page21[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page21[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page21[1].png  
 - format: png  
   name: Page24[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page24[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page24[1].png  
 - format: png  
   name: Page25[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page25[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page25[1].png  
 - format: png  
   name: Page26[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page26[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page26[1].png  
 - format: png  
   name: Page27[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page27[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page27[1].png  
 - format: png  
   name: Page28[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page28[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page28[1].png  
 - format: png  
   name: Page29[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page29[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page29[1].png  
 - format: png  
   name: Page30[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page30[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page30[1].png  
 - format: png  
   name: Page31[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page31[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page31[1].png  
 - format: png  
   name: Page32[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page32[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page32[1].png  
 - format: png  
   name: Page33[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page33[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page33[1].png  
 - format: png  
   name: Page34[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page34[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page34[1].png  
 - format: png  
   name: page35[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/page35[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/page35[1].png  
 - format: png  
   name: Page36[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-2/Page36[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-2/Page36[1].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  

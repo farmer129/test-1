@@ -318,22 +318,22 @@ Christian Nicolaus Pehmöller.
 resources:  
 - format: png  
   name: Page78[0].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-13/Page78[0].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-13/Page78[0].png  
 - format: png  
   name: Page79[0-1-2-3-4].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-13/Page79[0-1-2-3-4].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-13/Page79[0-1-2-3-4].png  
 - format: png  
   name: Page80[4-5].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-13/Page80[4-5].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-13/Page80[4-5].png  
 - format: png  
   name: Page81[5-6-7-8-9].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-13/Page81[5-6-7-8-9].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-13/Page81[5-6-7-8-9].png  
 - format: png  
   name: Page82[9-10-11-12-13-14-15].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-13/Page82[9-10-11-12-13-14-15].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-13/Page82[9-10-11-12-13-14-15].png  
 - format: png  
   name: Page83[15].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-13/Page83[15].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-13/Page83[15].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  

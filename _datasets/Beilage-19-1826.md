@@ -1630,79 +1630,79 @@ Publ. Darmstadt den 30. Mai 1826.</p>"
 resources:  
 - format: png  
   name: Page129[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page129[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page129[1].png  
 - format: png  
   name: Page130[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page130[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page130[1].png  
 - format: png  
   name: Page131[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page131[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page131[1].png  
 - format: png  
   name: Page132[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page132[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page132[1].png  
 - format: png  
   name: Page133[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page133[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page133[1].png  
 - format: png  
   name: Page134[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page134[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page134[1].png  
 - format: png  
   name: Page135[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page135[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page135[1].png  
 - format: png  
   name: Page136[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page136[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page136[1].png  
 - format: png  
   name: Page137[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page137[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page137[1].png  
 - format: png  
   name: Page138[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page138[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page138[1].png  
 - format: png  
   name: Page139[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page139[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page139[1].png  
 - format: png  
   name: Page140[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page140[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page140[1].png  
 - format: png  
   name: Page141[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page141[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page141[1].png  
 - format: png  
   name: Page142[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page142[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page142[1].png  
 - format: png  
   name: Page143[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page143[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page143[1].png  
 - format: png  
   name: Page144[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page144[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page144[1].png  
 - format: png  
   name: Page145[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page145[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page145[1].png  
 - format: png  
   name: Page146[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page146[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page146[1].png  
 - format: png  
   name: Page147[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page147[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page147[1].png  
 - format: png  
   name: Page148[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page148[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page148[1].png  
 - format: png  
   name: Page149[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page149[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page149[1].png  
 - format: png  
   name: Page150[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page150[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page150[1].png  
 - format: png  
   name: Page151[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page151[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page151[1].png  
 - format: png  
   name: Page152[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page152[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page152[1].png  
 - format: png  
   name: Page153[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-19/Page153[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-19/Page153[1].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  

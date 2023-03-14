@@ -62,7 +62,7 @@ vdt. Busch.</p>"
 resources:  
 - format: png  
   name: Page128[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-18/Page128[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-18/Page128[1].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  

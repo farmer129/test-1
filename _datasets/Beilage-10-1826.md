@@ -38,7 +38,7 @@ d'Anstett.</p>"
 resources:  
 - format: png  
   name: Page65[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-10/Page65[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-10/Page65[1].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  

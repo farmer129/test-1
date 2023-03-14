@@ -422,25 +422,25 @@ Hartenbach.</p>"
 resources:  
 - format: png  
   name: Page137[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-5/Page137[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-5/Page137[1].png  
 - format: png  
   name: Page138[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-5/Page138[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-5/Page138[1].png  
 - format: png  
   name: Page139[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-5/Page139[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-5/Page139[1].png  
 - format: png  
   name: Page140[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-5/Page140[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-5/Page140[1].png  
 - format: png  
   name: Page141[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-5/Page141[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-5/Page141[1].png  
 - format: png  
   name: Page142[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-5/Page142[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-5/Page142[1].png  
 - format: png  
   name: Page143[1].png  
-  url: ../../Protokolle_BV_17_1825/Beilage-5/Page143[1].png  
+  url: ../../data_img/Protokolle_BV_17_1825/Beilage-5/Page143[1].png  
 category:   
   - Protokolle_BV_17_1825  
 maintainer: Tao Luo  

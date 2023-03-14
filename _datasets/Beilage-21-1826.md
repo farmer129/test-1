@@ -54,7 +54,7 @@ soumn, Erhr. v. Münch-Bellinghausen.</p>"
 resources:  
 - format: png  
   name: Page172[1].png  
-  url: ../../Protokolle_BV_18_1826/Beilage-21/Page172[1].png  
+  url: ../../data_img/Protokolle_BV_18_1826/Beilage-21/Page172[1].png  
 category:   
   - Protokolle_BV_18_1826  
 maintainer: Tao Luo  
