@@ -82,12 +82,7 @@ layout: default
             }
           }
         </script>
-
-      <div id="text">
-        <h1>
-          <span property="dct:title">{{ page.title }}
-          <a href="?view=edit" class="pull-right btn btn-outline-secondary admin-only" data-hook="edit-dataset-btn">Edit</a>
-          <div class="row g-3">
+        <div class="row g-3">
             <div class="col-auto">
             <input type="text" id="search" placeholder="Highlight your target..." class="form-control" />
             </div>
@@ -97,6 +92,11 @@ layout: default
             </button>
           </div>
         </div>
+
+      <div id="text">
+        <h1>
+          <span property="dct:title">{{ page.title }}
+          <a href="?view=edit" class="pull-right btn btn-outline-secondary admin-only" data-hook="edit-dataset-btn">Edit</a>
       </span>
         </h1>
         <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes }}</p>
