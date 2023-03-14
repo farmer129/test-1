@@ -82,21 +82,21 @@ layout: default
             }
           }
         </script>
-        <div class="row g-3">
-        <div class="col-auto">
-        <input type="text" id="search" placeholder="Highlight your target..." class="form-control" />
-        </div>
-        <div class="col-auto">
-        <button onClick="search(id)" class="btn btn-primary mb-3" id="button">
-        Highlight
-        </button>
-      </div>
-    </div>
 
       <div id="text">
         <h1>
           <span property="dct:title">{{ page.title }}</span>
           <a href="?view=edit" class="pull-right btn btn-outline-secondary admin-only" data-hook="edit-dataset-btn">Edit</a>
+          <div class="row g-3">
+            <div class="col-auto">
+            <input type="text" id="search" placeholder="Highlight your target..." class="form-control" />
+            </div>
+            <div class="col-auto">
+            <button onClick="search(id)" class="btn btn-primary mb-3" id="button">
+            Highlight
+            </button>
+          </div>
+        </div>
         </h1>
         <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes }}</p>
 
