@@ -1,8 +1,8 @@
-title: JKAN
+title: UoA
 greeting: Welcome to Charlie
 description: An open source website for Fraktur minutes.
 baseurl: /jkan
-logo: /img/jkan.png
+logo: /img/UoA.png
 
 # Site theme
 jkan_theme: Default
