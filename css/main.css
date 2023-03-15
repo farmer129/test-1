@@ -63,16 +63,21 @@ dataset {
   display: none;
 }
 
+.homepage-categories,
+.theme-gallery {
+  text-align: justify;
+}
+
 /* allows last line of categories to be justify aligned */
 .homepage-categories:after,
 .theme-gallery:after {
   display: inline-block;
   width: 100%;
-  content: "";
+  content: '';
 }
 
 .homepage-categories .thumbnail {
-  display: inline-block;
+  display: inline-grid;
   min-width: 120px;
   text-align: center;
   border: none;
@@ -81,6 +86,7 @@ dataset {
 
 .homepage-categories .thumbnail img {
   height: 80px;
+  margin: auto;
 }
 
 .homepage-categories a {
