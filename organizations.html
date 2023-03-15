@@ -6,7 +6,6 @@ permalink: /organizations/
 {% include breadcrumbs.html %}
 
 <div class="organization">
-<a href="{{ site.baseurl }}/add-organization/" class="btn btn-outline-secondary float-right" data-hook="add-organization-btn"><i class="fa fa-plus"></i> Add Organization</a>
 
 {% for organization in site.organizations %}
   {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
