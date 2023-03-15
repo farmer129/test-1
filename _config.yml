@@ -20,6 +20,12 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
+  - title: Guide
+    url: /guide/
+  - title: About us
+    url: /about-us/
+  - title: Help
+    url: /help/
 
 # Collections
 collections:
