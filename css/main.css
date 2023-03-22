@@ -2,14 +2,6 @@
   width: 70px;
 }
 
-.index-page {
-  min-height: 95vh;
-}
-
-.navpage {
-  min-height: 95vh;
-}
-
 .organization {
   display: flex;
   min-height: 95vh;
