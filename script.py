@@ -172,7 +172,7 @@ while len(files) > 1:
                 with open (text_name, 'a', encoding='utf-8') as file:
 
                     # Write the continuous content.
-                    file.write('\n')
+                    file.write('<p></p>')
                     file.write('<p><b>Page.' + str(page_num) + '</b></p>')
                     file.write('\n')
                     file.write(content)
