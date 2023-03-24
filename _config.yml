@@ -1,14 +1,14 @@
 title: UoA
 greeting: Welcome to Charlie
 description: An open source website for Fraktur minutes.
-baseurl: /test
+baseurl: /test-1
 logo: /img/UoA.png
 
 # Site theme
 jkan_theme: Default
 
 # Authentication
-github_client_id: dc124c15f48731f43b9a
+github_client_id: 403d91324d6cff72037e
 gatekeeper_host: 
 
 # Dataset schema
