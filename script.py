@@ -106,6 +106,14 @@ while len(files) > 1:
 
         # Every page's name
         filename = "Page[" + str(page_num) + "].png"
+        
+        while 1:
+            if filename in data_img:
+                first_page += 1
+                page_num = page_num_1 + first_page
+                filename = "Page[" + str(page_num) + "].png"
+            else:
+                break
 
         # Render the page as a PNG image
         pic = page.get_pixmap(alpha=False)
