@@ -79,6 +79,9 @@ while len(files) > 1:
 
     # Load the list of datasets
     datasets = os.listdir("_datasets")
+    
+        # Load the list of datasets
+    datasets = os.listdir(output_dir)
 
     try:
 
