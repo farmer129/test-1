@@ -3,7 +3,13 @@
  Team Charlie --- Auto-transcribe and open-data system in Fraktur.
 
 ## Vision
- Add something about what the application will do when more complete
+ Once the user upload a PDF file, the application will do following things:  
+ 1. Split the PDF by pages and save all pages as PNG.  
+ 2. Scan every page and transcribe the words from Fraktur to modern German.  
+ 3. Group the content and pages by session flexibly and generate many source files according to the sessions.  
+ 4. Upload those files onto site and make them accessible.
+ 5. The site allows user to search and highlight keywords to locate their target quickly.
+ 6. All things will be done automatically.  
   
 ## Requirements
  The system uses github actions to install packages.  
