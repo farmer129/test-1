@@ -81,7 +81,7 @@ while len(files) > 1:
     datasets = os.listdir("_datasets")
     
         # Load the list of datasets
-    datasets = os.listdir(output_dir)
+    data_img = os.listdir(output_dir)
 
     try:
 
