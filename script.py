@@ -25,6 +25,13 @@ first_page = 1
 new_page_symbol_1 = 'Geschehen'
 new_page_symbol_2 = 'Frankfurt'
 
+# The orgnization and maintainer of the files.
+# The orgnization can help to locate the file easily.
+# The maintainer should be the one who upload the file.
+organization = 'Team Charlie'
+maintainer_name = 'Frank Chen'
+maintainer_email = 'z.chen5.21@abdn.ac.uk'
+
 # ------------------------------------------------------------------------------
 ################################################################################
 
@@ -70,6 +77,9 @@ while len(files) > 1:
     # Define the directory where the PNG files will be saved
     output_dir = "data_img/" + pdf_name[:-4]
 
+    # Load the list of datasets
+    datasets = os.listdir("_datasets")
+
     try:
 
         # Build the dirctory to save the images
@@ -86,6 +96,10 @@ while len(files) > 1:
     
     # Iterate over each page of the PDF
     for page_num_1, page in enumerate(pages): 
+
+        # More than 30 pages each time will lead to a ban from Transkribus.
+        if page_num_1 == 30:
+            break
 
         # Page number starts from 1.
         page_num = page_num_1 + first_page
@@ -146,7 +160,7 @@ while len(files) > 1:
                     file.write('\n')
                     file.write('title: ' + text_name[:-4])
                     file.write('\n')
-                    file.write('organization: Team Charlie ')
+                    file.write('organization: ' + organization)
                     file.write('\n')
                     file.write('notes: "')
                     file.write('\n')
@@ -220,9 +234,9 @@ while len(files) > 1:
                     file.write('\n')
     
                     # Add the maintainer. Frank Chen who is the software developer.
-                    file.write('maintainer: Frank Chen ')
+                    file.write('maintainer: ' + maintainer_name)
                     file.write('\n')
-                    file.write('maintainer_email: z.chen5.21@abdn.ac.uk ')
+                    file.write('maintainer_email: ' + maintainer_email)
                     file.write('\n')
                     file.write('--- ')
                     file.write('\n')
@@ -239,6 +253,13 @@ while len(files) > 1:
 
                 # Change text file into md file and move it into _datasets foleder.
                 mdfile = text_name[:-4] + '.md'
+                
+                # If md_name is in the datasets, session should change.
+                while 1:
+                    if mdfile in datasets:
+                        session += 1
+                        mdfile = pdf_name[:-4] + "-" + str(session) + '.md'
+
                 shutil.copyfile(text_name, mdfile)
                 os.remove(text_name)
                 shutil.move(mdfile, '_datasets/' + mdfile)
@@ -280,4 +301,3 @@ try:
 except:
     pass
     
-
